@@ -1,4 +1,4 @@
-name: workflow_02
+name: workflow_022
 on: [repository_dispatch]
 jobs:
   cypress-run:
